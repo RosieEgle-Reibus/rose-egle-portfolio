@@ -84,9 +84,9 @@ footer {
     align-items: center;
 }
 .middle-image {
-    width: 50%;
+    width: 50%; 
     display: flex;
-    justify-content: center;   
+    justify-content: center; 
 }
 .middle-content {
     width: 30%;
@@ -104,5 +104,8 @@ footer {
 }
 .middle-content p {
     background-color: lightseagreen;
-
+}
+.middle-image img {
+    max-width: 400px;
+   
 }
