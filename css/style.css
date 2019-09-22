@@ -25,12 +25,15 @@ h1 {
     font-size: 40px;
     font-weight: 200;
 }
-
 a {
     text-decoration: none;
     color: #fff;
     padding: 0 15px;
     font-size: 24px;
+}
+nav a img {
+    max-width: 40px;
+    margin: 0 -10px;
 }
 .main-container { 
     width: 960px;
