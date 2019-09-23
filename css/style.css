@@ -27,7 +27,7 @@ header {
     justify-content: center;
 }
 header img {
-    max-width: 150px;  
+    max-width: 200px;  
 }
 a:hover {
     color: #778899;
@@ -179,3 +179,6 @@ footer {
     list-style-type: none;
     line-height: 1.5;  
 }
+
+/*
+ <img src="images/Logo.png" alt="logo image" /> */
